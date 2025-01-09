@@ -7,9 +7,9 @@ Let’s explore the world of code together and create something extraordinary! �
 ---
 
    🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](#Samsoor Hananzoi)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)](#Samsoorsamander)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail)](#samsoorsamander@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](SamsoorHananzoi)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)](Samsoorsamander)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail)](samsoorsamander@gmail.com)  
 
 ---
 
