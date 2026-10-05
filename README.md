@@ -1,98 +1,214 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                    SAMSOOR HANANZOI                              ║
-  ║              GitHub Profile README                              ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-# 👋 Hey, I'm **Samsoor Hananzoi**
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### `Full-Stack Developer` • `Mobile Developer` • `Software Engineer`
+<!--                         HERO                                -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+real-world+software+%F0%9F%9A%80;Web+%7C+Mobile+%7C+Desktop+Applications;Turning+ideas+into+useful+products;Always+learning.+Always+building." alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Samsoorsamander">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SAMSOOR&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0:050816,35:111827,70:172554,100:312e81"/>
+
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER;FULL-STACK+%2B+MOBILE+DEVELOPER;BUILDING+REAL-WORLD+SOFTWARE;SYSTEMS+%7C+PRODUCTS+%7C+EXPERIMENTS;CODE+%E2%86%92+BUILD+%E2%86%92+SHIP+%E2%86%92+REPEAT" alt="Typing animation"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00F5D4?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/MODE-CODE%20%2B%20CREATE-7C3AED?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/LOCATION-AFGHANISTAN-38BDF8?style=for-the-badge&labelColor=050816"/>
+
+<br/><br/>
+
 <a href="https://github.com/Samsoorsamander">
-  <img src="https://komarev.com/ghpvc/?username=Samsoorsamander&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Samsoorsamander&label=VISITORS&color=00F5D4&style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/Samsoorsamander?tab=followers">
-  <img src="https://img.shields.io/github/followers/Samsoorsamander?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Samsoorsamander?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED"/>
 </a>
+
 <a href="https://github.com/Samsoorsamander?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Samsoorsamander?style=for-the-badge&logo=github&label=Total%20Stars&color=F5C518" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/Samsoorsamander?style=for-the-badge&logo=github&label=STARS&color=F59E0B"/>
 </a>
 
 <br/><br/>
 
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       ███████╗ █████╗ ███╗   ███╗███████╗ ██████╗  ██████╗      ║
+║       ██╔════╝██╔══██╗████╗ ████║██╔════╝██╔═══██╗██╔═══██╗     ║
+║       ███████╗███████║██╔████╔██║███████╗██║   ██║██║   ██║     ║
+║       ╚════██║██╔══██║██║╚██╔╝██║╚════██║██║   ██║██║   ██║     ║
+║       ███████║██║  ██║██║ ╚═╝ ██║███████║╚██████╔╝╚██████╔╝     ║
+║       ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚═════╝      ║
+║                                                                  ║
+║                  SOFTWARE ENGINEER                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+### `◉ SYSTEM ONLINE`
+
+**I build software, not just code.**
+
+<br/>
+
 <a href="https://www.linkedin.com/in/samsoor-hananzoi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/Samsoorsamander">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://github.com/Samsoorsamander">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:samsoorsamander@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                     ANIMATED SPACE                         -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&text=%E2%80%A2%20%E2%80%A2%20%E2%80%A2%20%E2%80%A2%20%E2%80%A2%20%E2%80%A2%20%E2%80%A2&fontSize=30&fontColor=67E8F9&color=050816&animation=twinkling"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ```text
-I don't just write code.
-I build software that solves real problems.
+                     🛰️
+               ·            ·
+          ·                         ·
+       ✦          ◉ SAMSOOR ◉          ✦
+          ·                         ·
+               ·            ·
+                     🌐
 
-→ Full-stack web development
-→ Cross-platform mobile applications
-→ Desktop applications
-→ Offline-first systems
-→ Database-driven business software
-→ Scalable backend architecture
-→ Continuous learning & experimentation
+          🕷️───────╲     ╱───────🕷️
+                     ╲   ╱
+                      ╲ ╱
+                      ╱ ╲
+                     ╱   ╲
+          🕷️────────╱     ╲────────🕷️
 ```
 
-I'm a **software engineer focused on building practical products** that are fast, maintainable, and easy to use.
-
-I enjoy taking an idea from:
-
-**💡 Concept → 🏗️ Architecture → 💻 Development → 🧪 Testing → 🚀 Product**
-
-My interests currently revolve around **full-stack development, mobile applications, system design, software architecture, AI-assisted development, and building products that solve real-world problems.**
+</div>
 
 ---
 
-## ⚡ What I'm Building & Learning
+# `01` // ABOUT
 
-<table>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=THINK+%E2%86%92+DESIGN+%E2%86%92+ENGINEER+%E2%86%92+SHIP" />
+
+</div>
+
+I'm a **Software Engineer** interested in building useful, reliable and scalable software across **web, mobile and desktop**.
+
+I enjoy turning real-world problems into working products — from the first idea and architecture to implementation, optimization and deployment.
+
+```text
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                      ┌────────────────────┐
+                      │    ARCHITECTURE    │
+                      └─────────┬──────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              ▼                 ▼                 ▼
+         ┌─────────┐      ┌──────────┐      ┌─────────┐
+         │   WEB   │      │  MOBILE  │      │ DESKTOP │
+         └────┬────┘      └────┬─────┘      └────┬────┘
+              │                 │                  │
+              └─────────────────┼──────────────────┘
+                                ▼
+                         ┌──────────────┐
+                         │   PRODUCT    │
+                         └──────┬───────┘
+                                ▼
+                              🚀
+```
+
+---
+
+# `02` // TECH UNIVERSE
+
+<div align="center">
+
+### `THE WEAPONS I BUILD WITH`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,express,python,django,cs,mongodb,postgres,mysql,sqlite,firebase,docker,aws,git,github,linux,vscode&perline=8" />
+
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center">
 
-### 🔨 Building
+### 🌐 WEB
 
-* 🌐 Full-stack web applications
-* 📱 React Native mobile apps
-* 🖥️ Offline desktop software
-* 💾 Database-driven business systems
-* 🔐 Secure & reliable application architectures
-* ⚡ Performance-focused interfaces
+`React`
+`Next.js`
+`TypeScript`
+`JavaScript`
+`HTML`
+`CSS`
 
 </td>
-<td width="50%">
 
-### 🧠 Exploring
+<td align="center">
 
-* 🤖 Generative AI & AI-powered applications
-* 🏗️ System Design
-* ☁️ Cloud & DevOps
-* 🐍 Python
-* 🧩 Software Architecture
-* 🎮 Game Development
-* 📊 Scalable backend systems
+### 📱 MOBILE
+
+`React Native`
+`Expo`
+`TypeScript`
+
+</td>
+
+<td align="center">
+
+### ⚙️ BACKEND
+
+`Node.js`
+`Express`
+`Python`
+`Django`
+`C#`
+
+</td>
+
+<td align="center">
+
+### 💾 DATA
+
+`PostgreSQL`
+`MongoDB`
+`MySQL`
+`SQLite`
+`Firebase`
 
 </td>
 </tr>
@@ -100,250 +216,233 @@ My interests currently revolve around **full-stack development, mobile applicati
 
 ---
 
-# 🛠️ My Technology Universe
+# `03` // CURRENT MISSION
 
-### 🌐 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=500&color=22D3EE&center=true&vCenter=true&width=750&lines=%5B+MISSION+ACTIVE+%5D;SYSTEM+DESIGN;AI+ENGINEERING;SCALABLE+SOFTWARE;PRODUCT+ENGINEERING;NEXT+LEVEL..." />
 
-### 📱 Mobile
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript" />
-</p>
-
-**React Native • Expo**
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,cs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" />
-</p>
-
-### ☁️ DevOps & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-</p>
-
----
-
-## 🧩 Engineering Interests
+<br/>
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  SOFTWARE ENGINEERING               │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Frontend ────────┐                                 │
-│  Mobile ──────────┤                                 │
-│  Backend ─────────┼──► Architecture ──► Products   │
-│  Databases ───────┤                                 │
-│  DevOps ──────────┘                                 │
-│                                                     │
-│              + AI + System Design                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   MISSION 01     ███████████████████░░░░░   SYSTEM DESIGN   │
+│                                                              │
+│   MISSION 02     ████████████████░░░░░░░░   AI ENGINEERING  │
+│                                                              │
+│   MISSION 03     ██████████████░░░░░░░░░░   ARCHITECTURE    │
+│                                                              │
+│   MISSION 04     ████████████░░░░░░░░░░░░   DEVOPS         │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-I care about more than simply making an application **work**.
-
-I'm interested in:
-
-* ⚡ Performance
-* 🧱 Maintainable architecture
-* 📈 Scalability
-* 🔒 Security
-* 💾 Data consistency
-* 🧪 Testing
-* 🧑‍💻 Developer experience
-* 🎨 User experience
-* 🔄 Reliability
-* 📦 Clean project structure
 
 ---
 
-# 🚀 Featured Projects
+# `04` // PROJECTS
 
-### 🎮 [Games-Space](https://github.com/Samsoorsamander/Games-Space)
+<div align="center">
 
-> A platform for discovering and exploring games.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=PROJECTS+ARE+WHERE+IDEAS+BECOME+REAL." />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎮 Games-Space
+
+A platform for discovering and exploring games.
+
+**STACK**
 
 `React` `Node.js`
 
----
+<br/>
 
-### 🌿 [Planty](https://github.com/Samsoorsamander/Planty)
+<a href="https://github.com/Samsoorsamander/Games-Space">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-000000?style=for-the-badge&logo=github"/>
+</a>
 
-> A mobile application designed to help users take better care of their plants.
+</td>
+
+<td width="50%">
+
+## 🌿 Planty
+
+A mobile experience designed to help users care for their plants.
+
+**STACK**
 
 `React Native` `Firebase`
 
----
+<br/>
 
-### 🛒 [DoneWithIt](https://github.com/Samsoorsamander/DoneWithIt)
+<a href="https://github.com/Samsoorsamander/Planty">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-000000?style=for-the-badge&logo=github"/>
+</a>
 
-> A marketplace application for buying and selling unused items.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🛒 DoneWithIt
+
+A marketplace application for buying and selling items.
+
+**STACK**
 
 `React Native` `MongoDB`
 
----
+<br/>
 
-### 🧠 [Quiz App](https://github.com/Samsoorsamander/Quiz-App)
+<a href="https://github.com/Samsoorsamander/DoneWithIt">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-000000?style=for-the-badge&logo=github"/>
+</a>
 
-> A dynamic mobile quiz application built for interactive learning.
+</td>
+
+<td width="50%">
+
+## 🧠 Quiz App
+
+An interactive mobile quiz application.
+
+**STACK**
 
 `React Native` `TypeScript`
 
----
-
-## 💻 Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=9CDCFE&center=true&vCenter=true&width=650&lines=Learning+System+Design...;Exploring+AI+Engineering...;Designing+Scalable+Systems...;Building+Better+Products...;Improving+Every+Day..." />
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samsoorsamander&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samsoorsamander&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180"/>
-
-</div>
-
 <br/>
 
+<a href="https://github.com/Samsoorsamander/Quiz-App">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `05` // GITHUB MATRIX
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Samsoorsamander&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Samsoorsamander&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samsoorsamander&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=67E8F9&text_color=CBD5E1&langs_count=8" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Samsoorsamander&theme=transparent&hide_border=true&ring=67E8F9&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# `06` // CONTRIBUTION GRID
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samsoorsamander&theme=react-dark&hide_border=true&area=true&custom_title=Samsoor's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samsoorsamander&bg_color=00000000&color=67E8F9&line=7C3AED&point=F59E0B&area_color=312E81&area=true&hide_border=true&custom_title=SAMSOOR%20%2F%20ACTIVITY%20MATRIX" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# `07` // ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samsoorsamander&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Samsoorsamander&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
 
 </div>
 
 ---
 
-# 🧑‍💻 A Little More About Me
+# `08` // TERMINAL
 
-```javascript
-const samsoor = {
-    name: "Samsoor Hananzoi",
-    role: "Software Engineer",
+<div align="center">
 
-    focus: [
-        "Full-Stack Development",
-        "Mobile Development",
-        "Desktop Applications",
-        "System Design",
-        "Software Architecture"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "React Native",
-        "TypeScript",
-        "JavaScript"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express",
-        "Python",
-        "Django",
-        "C#"
-    ],
-
-    databases: [
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "SQLite",
-        "Firebase"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "AI Engineering",
-        "Cloud & DevOps",
-        "Software Architecture"
-    ],
-
-    philosophy:
-        "Build useful things. Understand how they work. Keep improving."
-};
+```text
+┌──[ samsoor@github ]───────────────────────────────────────────┐
+│                                                               │
+│  $ whoami                                                     │
+│  samsoor                                                       │
+│                                                               │
+│  $ ./current_status                                           │
+│                                                               │
+│  [✓] building                                                  │
+│  [✓] learning                                                  │
+│  [✓] experimenting                                             │
+│  [✓] solving problems                                          │
+│  [∞] improving                                                 │
+│                                                               │
+│  $ echo "code > excuses"                                       │
+│                                                               │
+│  code > excuses                                                │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-# 🌍 Let's Connect
+# `09` // THE PHILOSOPHY
 
 <div align="center">
 
-### Have an idea, project, or interesting problem?
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=850&lines=BUILD+THINGS+THAT+MATTER.;UNDERSTAND+WHAT+YOU+BUILD.;MAKE+IT+FAST.;MAKE+IT+SIMPLE.;KEEP+MOVING." />
 
-**Let's build something useful.**
+<br/><br/>
 
-<br/>
+`BUILD`   →   `BREAK`   →   `LEARN`   →   `REBUILD`
+
+</div>
+
+---
+
+<div align="center">
+
+# `CONNECT`
 
 <a href="https://www.linkedin.com/in/samsoor-hananzoi/">
-<img src="https://img.shields.io/badge/LinkedIn-Samsoor%20Hananzoi-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-SAMSOOR%20HANANZOI-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/Samsoorsamander">
+<img src="https://img.shields.io/badge/X-SAMSOORSAMANDER-000000?style=for-the-badge&logo=x"/>
 </a>
 
 <a href="https://github.com/Samsoorsamander">
-<img src="https://img.shields.io/badge/GitHub-Samsoorsamander-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-SAMSOORSAMANDER-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:samsoorsamander@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-samsoorsamander%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### ⭐ If you find something useful here, consider starring the repository.
+### `LET'S BUILD SOMETHING UNEXPECTED.`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:3178C6,100:7C3AED&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:312e81,35:172554,70:111827,100:050816"/>
 
-**`Code → Learn → Build → Repeat`**
+</div>
 
-<sub>Made with ☕, curiosity, and a lot of debugging.</sub>
+<div align="center">
+
+<sub>⚡ Code. Create. Experiment. Repeat.</sub>
 
 </div>
